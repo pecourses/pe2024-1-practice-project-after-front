@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import sectionLogo from './nhlayer.jpg';
+import sectionLogo from './nh-layer.svg';
 import styles from './NamingContest.module.sass';
 
 function NamingContest () {
